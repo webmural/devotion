@@ -1,0 +1,13 @@
+::selection {
+  background: darkviolet;
+  color: gold;
+}
+
+:root {
+  color: #323;
+  background: skyblue;
+}
+
+:any-link {
+  color: indigo;
+}
